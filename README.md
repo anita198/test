@@ -2,7 +2,60 @@
 
 Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
 
+testing githu flavour
+Your computer crashed? Try sending a
 
+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd>
+
+
+Strikethrough:
+~~It was created by John Gruber in 2004.~~
+
+![test image](www.google.com)
+
+<table class="table table-striped">
+
+<caption>Caption for this Table</caption>
+
+<thead class="thead-dark">
+
+<tr>
+
+    <th width="30%">Property</th>
+
+    <th width="70%">Description</th>
+
+    </tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+    <td>Topic1</td>
+
+    <td>Topic2
+
+        <ul>
+
+        <li>Bullet item</li>
+
+        <li>Bullet item</li>
+
+        </ul>
+
+        </td>
+
+    </tr>
+
+<tr>
+
+    <td>TopicA</td>
+<td>TopicB</td>
+ </tr>
+</tbody>
+</table>
 # Files
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
