@@ -11,7 +11,7 @@ Your computer crashed? Try sending a
 Strikethrough:
 ~~It was created by John Gruber in 2004.~~
 
-![test image}(/herobrie cool.jpg)
+![test image](/yeah.jpg)
 
 <table class="table table-striped">
 
